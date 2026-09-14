@@ -1,11 +1,5 @@
 [
   {
-    "username": "board",
-    "ip": "95.75.192.91",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:155.0) Gecko/20100101 Firefox/155.0",
-    "timestamp": "2026-09-14T10:34:10.569Z"
-  },
-  {
     "username": "adiphs",
     "ip": "95.75.192.91",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:155.0) Gecko/20100101 Firefox/155.0",
@@ -598,5 +592,11 @@
     "ip": "95.75.192.91",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko)",
     "timestamp": "2026-09-14T15:38:17.325Z"
+  },
+  {
+    "username": "board",
+    "ip": "102.92.23.14",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+    "timestamp": "2026-09-14T16:06:36.520Z"
   }
 ]
