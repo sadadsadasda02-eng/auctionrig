@@ -1,11 +1,5 @@
 [
   {
-    "username": "carlos",
-    "ip": "95.75.192.91",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:155.0) Gecko/20100101 Firefox/155.0",
-    "timestamp": "2026-09-14T11:24:41.737Z"
-  },
-  {
     "username": "sardine",
     "ip": "95.75.192.91",
     "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:155.0) Gecko/20100101 Firefox/155.0",
@@ -598,5 +592,11 @@
     "ip": "95.75.203.76",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
     "timestamp": "2026-09-28T17:48:49.276Z"
+  },
+  {
+    "username": "board",
+    "ip": "95.75.203.76",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+    "timestamp": "2026-09-28T17:49:14.022Z"
   }
 ]
